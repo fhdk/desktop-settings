@@ -7,10 +7,10 @@ Global {
   margin=0
   widthtype=percent
   width=100
-  height=34
+  height=28
   transparent=0
-  tintcolor=#000000
-  alpha=0
+  tintcolor=#2e3436
+  alpha=240
   setdocktype=1
   setpartialstrut=1
   autohide=0
@@ -19,7 +19,7 @@ Global {
   fontcolor=#ffffff
   background=0
   backgroundfile=/usr/share/lxpanel/images/background.png
-  iconsize=32
+  iconsize=24
   usefontsize=0
 }
 Plugin {
