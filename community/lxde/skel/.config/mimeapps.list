@@ -1,5 +1,5 @@
 [Default Applications]
-application/pdf=epdfview.desktop;
+application/pdf=qpdfview.desktop;
 application/x-shellscript=leafpad.desktop
 text/plain=leafpad.desktop
 inode/directory=pcmanfm.desktop
